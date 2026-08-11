@@ -1,0 +1,5 @@
+marks1=int(input("Enter marks of first subject:"))
+marks2=int(input("Enter marks of second subject:"))
+print("Pass:",marks1>=35 and marks2>=35)
+print("Eligible for grace:",marks1<35 or marks2<35)
+print("Student has not failed: ",not(marks1<35 or marks2<35))
