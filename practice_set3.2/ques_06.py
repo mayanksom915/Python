@@ -1,4 +1,4 @@
-student = ("Mayank", 20, "BCA")
+student = ("Mayank", 20, "B.Tech")
 print("Packed tuple:", student)
 name, age, course = student
 print("Name:", name)
@@ -12,7 +12,7 @@ print("Last:", c)
 
 
 # output:
-# Packed tuple: ('Mayank', 20, 'BCA')
+# Packed tuple: ('Mayank', 20, 'B.Tech')
 # Name: Mayank
 # Age: 20                                               
 # Course: BCA
