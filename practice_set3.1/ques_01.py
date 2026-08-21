@@ -1,5 +1,18 @@
-movies = ["3 Idiots", "Dangal", "Krrish", "Bahubali", "Toilet: Ek Prem Katha"]
+# INTEGER
 
-print(movies)
+a = 10
 
-# output: ['3 Idiots', 'Dangal', 'Krrish', 'Bahubali', 'Toilet: Ek Prem Katha']
+# FLOAT
+
+b = 10.5
+
+# COMPLEX
+
+c = 10 + 5j
+
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))

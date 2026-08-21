@@ -1,9 +1,7 @@
-list1 = [1, 2, 3]
-list2 = [4, 5, 6]
+a = int(input("Enter first number: "))
+b = float(input("Enter second number: "))
+c = complex(input("Enter third number: "))
 
-list1.extend(list2)
-list1.pop()
-
-print(list1)
-
-# output: [1, 2, 3, 4, 5]
+print("Integer",a,"Data",type(a))
+print("Float",b,"Data",type(b))
+print("Complex",c,"Data",type(c))

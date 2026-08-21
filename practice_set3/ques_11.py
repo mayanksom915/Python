@@ -1,8 +1,0 @@
-print("----------------------")
-print("   STUDENT PROFILE    ")
-print("----------------------")
-print(" Name      : John andrew")
-print(" Age       : 20")
-print(" Course    : B.Tech")
-print(" University: XYZ University")
-print(" City      : New York")

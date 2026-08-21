@@ -1,11 +1,15 @@
-numbers = [50, 20, 80, 10, 40, 30]
+A = 245
+B = 37
+C = -128.75
 
-numbers.sort()
-print("Ascending order:", numbers)
+square_A = pow(A, 2)
+absolute_C = abs(C)
+maximum = max(A, B, C)
+minimum = min(A, B, C)
+average = (A + B + C) / 3
 
-numbers.sort(reverse=True)
-print("Descending order:", numbers)
-
-# output:
-# Ascending order: [10, 20, 30, 40, 50]
-# Descending order: [50, 40, 30, 20, 10]
+print("A² =", square_A)
+print("Absolute value of C =", absolute_C)
+print("Maximum =", maximum)
+print("Minimum =", minimum)
+print("Average =", average)

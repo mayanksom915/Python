@@ -1,11 +1,8 @@
-numbers = [10, 20, 30, 40, 50]
-
-new_list = numbers.copy()
-
-print("Original list:", numbers)
-print("Copied list:", new_list)
-
-
-# output:
-# Original list: [10, 20, 30, 40, 50]
-# Copied list: [10, 20, 30, 40, 50]
+print("----------------------")
+print("   STUDENT PROFILE    ")
+print("----------------------")
+print(" Name      : John andrew")
+print(" Age       : 20")
+print(" Course    : B.Tech")
+print(" University: XYZ University")
+print(" City      : New York")

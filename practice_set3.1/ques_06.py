@@ -1,8 +1,10 @@
-fruits = ["Apple", "Banana", "Mango", "Orange", "Grapes"]
+x = int(input("Enter first number: "))
+y = float(input("Enter second number: "))
+z = complex(input("Enter third number: "))
 
-fruits.append("Papaya")
-fruits.insert(1, "Blue")
-
-print(fruits)
-
-# output: ['Apple', 'Blue', 'Banana', 'Mango', 'Orange', 'Grapes', 'Papaya']
+print("Integer value is:", x)
+print("Data Type of x is:", type(x))
+print("Float value is:", y)
+print("Data Type of y is:", type(y))
+print("Complex value is:", z)
+print("Data Type of z is:", type(z))

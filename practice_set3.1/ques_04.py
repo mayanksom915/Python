@@ -1,14 +1,14 @@
-list1 = [1, 2, 3, 4, 5]
-list2 = [6, 7, 8, 9, 10]
+#  using a+bj notation
 
-combined = list1 + list2
+c1 = 5+3j
 
-print("Combined list:", combined)
+# using complex() function
 
-# output: Combined list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+c2 = complex(5, 3)
 
-list1 = [1, 2, 3]
+print("Complex number 1 =",c1)
+print("Complex number 2 =",c2)
 
-print(list1 * 3)
-
-# output: [1, 2, 3, 1, 2, 3, 1, 2, 3]
+# Real and imaginary parts
+print("Real part =", c1.real)
+print("Imaginary part =", c1.imag)

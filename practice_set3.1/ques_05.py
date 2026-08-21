@@ -1,11 +1,6 @@
-my_list = [10, 20, 30, 40, 50]
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+c = float(input("Enter third number: "))
 
-print(my_list)
-print(my_list)
-print(my_list)
-
-
-# output:
-# [10, 20, 30, 40, 50]  
-# [10, 20, 30, 40, 50]  
-# [10, 20, 30, 40, 50]      
+average = (a + b + c) / 3
+print("Average of three numbers is:", average)

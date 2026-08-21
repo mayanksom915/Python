@@ -1,10 +1,11 @@
-cities = ["Delhi", "Mumbai", "Jaipur", "Kolkata", "Chennai"]
+a = 10
 
-print("Original list:", cities)
-print("Reverse list:", cities[::-1])
+# Convert integer into float
+b = float(a)
 
+# Convert integer into complex number
+c = complex(a)
 
-
-# output:
-# Original list: ['Delhi', 'Mumbai', 'Jaipur', 'Kolkata', 'Chennai']
-# Reverse list: ['Chennai', 'Kolkata', 'Jaipur', 'Mumbai]
+print("Integer:", a)
+print("Float:", b)
+print("Complex:", c)
