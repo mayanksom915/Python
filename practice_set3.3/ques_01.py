@@ -1,3 +1,6 @@
+# Q1. Write a Python program to input a string from the user and display the original string, length of the string, and data type of the variable.
+
+
 text = input("Enter a string: ")
 
 # Display information

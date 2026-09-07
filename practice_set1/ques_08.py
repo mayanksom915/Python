@@ -1,2 +1,4 @@
+# 8. Write a program to input your age and print: You are <age> years old.
+
 age=int(input("Enter Your age : "))
-print("Your are ",age,"years old.")
+print("You are ",age,"years old.")

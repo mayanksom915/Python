@@ -1,5 +1,13 @@
-marks1=int(input("Enter marks of first subject:"))
-marks2=int(input("Enter marks of second subject:"))
-print("Pass:",marks1>=35 and marks2>=35)
-print("Eligible for grace:",marks1<35 or marks2<35)
-print("Student has not failed: ",not(marks1<35 or marks2<35))
+# 4. Input the marks of a student in two subjects. Print "Pass" if both marks are 35 or above. Print "Eligible for Scholarship" if either mark is 90 or above. Print whether the student has not failed using the not operator.
+
+
+m1 = float(input("Enter the marks of student 1: "))
+m2 = float(input("Enter the marks of student 2:"))
+
+if m1 >= 35 and m2 >= 35:
+    print("Both students have passed.")
+if m1 >= 90 or m2 >= 90:
+    print("Eligible for scholarship.")
+if not (m1  < 35 or m2 < 35):
+    print("not failed")
+    

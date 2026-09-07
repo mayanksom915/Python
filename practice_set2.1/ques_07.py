@@ -1,3 +1,6 @@
+# Q7. A student is eligible for a scholarship only if Marks ≥ 85, Attendance ≥ 75%. Write a program to check the eligibility.
+
+
 marks = float(input("Enter student marks: "))
 attendance = float(input("Enter attendance percentage: "))
 

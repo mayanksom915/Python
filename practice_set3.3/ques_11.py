@@ -1,3 +1,6 @@
+# Q11. Write a Python program to find the longest word in a sentence.
+
+
 sentence = input("Enter a sentence: ")
 
 words = sentence.split()

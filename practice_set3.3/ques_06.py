@@ -1,3 +1,6 @@
+# Q6. Write a Python program to check whether two strings are anagrams.
+
+
 str1 = input("Enter first string: ")
 str2 = input("Enter second string: ")
 

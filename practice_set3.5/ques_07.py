@@ -1,3 +1,5 @@
+# Q7. Write a Python program to perform various set operations on two sets of students enrolled in Science Club and Coding Club.
+
 science = {"Aman", "Riya", "Rahul", "Priya", "Ankit"}
 coding = {"Rahul", "Ankit", "Simran", "Rohit", "Riya"}
 

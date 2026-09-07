@@ -1,3 +1,5 @@
+# Create a dictionary to store employee information and print the details.
+
 employee = {
     "Name": "Amit",
     "Department": "CSE",

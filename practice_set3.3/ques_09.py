@@ -1,3 +1,6 @@
+# Q9. Write a Python program to reverse the order of words in a sentence.
+
+
 sentence = input("Enter a sentence: ")
 
 words = sentence.split()

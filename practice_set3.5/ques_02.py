@@ -1,3 +1,5 @@
+# Q2. Write a Python program to remove an item from a set if it is present in the set.
+
 my_set = {10, 20, 30, 40, 50}
 
 print("Original set:", my_set)

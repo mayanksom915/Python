@@ -1,3 +1,5 @@
+# Q1. Write a Python program to add three items to a set and print the new set. 
+
 my_set = {10, 20, 30}
 
 my_set.add(25)

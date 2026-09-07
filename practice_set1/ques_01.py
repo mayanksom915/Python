@@ -1,3 +1,5 @@
+# 1. Create variables to store your name, age, city, and salary, then print them.
+
 name = "Mayank Som"
 age = 18
 city = "Meerut"

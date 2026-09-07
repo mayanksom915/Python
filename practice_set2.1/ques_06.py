@@ -1,3 +1,6 @@
+# Q6. Write a program that allows withdrawal from ATM only if PIN is correct and account balance is sufficient. Otherwise, display the appropriate message.
+
+
 correct_pin = "1234"
 account_balance = 5000.0  
 

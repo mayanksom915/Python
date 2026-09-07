@@ -1,3 +1,5 @@
+# Q9. Write a Python program to create a nested dictionary to store information about students, including their name, branch, semester, and CGPA.
+
 students = {
     "Student1": {"Name": "Rahul", "Branch": "CSE", "Semester": 4, "CGPA": 8.5},
     "Student2": {"Name": "Priya", "Branch": "ECE", "Semester": 6, "CGPA": 9.0},

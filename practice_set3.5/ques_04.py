@@ -1,3 +1,5 @@
+# Q4. Write a Python program to check whether two sets are disjoint or not. Two sets are disjoint if they have no elements in common.
+
 set1 = {10, 20, 30}
 set2 = {40, 50, 60}
 

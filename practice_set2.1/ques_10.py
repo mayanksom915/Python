@@ -1,3 +1,5 @@
+# Q10. WAP to validate a user's username and password. If both are correct, display "Login Successful"; otherwise, display "Invalid Username or Password".
+
 correct_username = "admin"
 correct_password = "password123"
 

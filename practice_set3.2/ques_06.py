@@ -1,3 +1,6 @@
+# Q6. Perform tuple packing and unpacking for student details. Demonstrate extended unpacking.
+
+
 student = ("Mayank", 20, "B.Tech")
 print("Packed tuple:", student)
 name, age, course = student

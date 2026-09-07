@@ -1,3 +1,5 @@
+# Q5. Write a Python program to print all keys, values, and key-value pairs of a dictionary.
+
 student = {
     "Roll": 101,
     "Name": "Rahul",

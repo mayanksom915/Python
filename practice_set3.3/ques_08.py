@@ -1,3 +1,6 @@
+# Q8. Write a Python program to input a sentence and display every word on a new line.
+
+
 sentence = input("Enter a sentence: ")
 
 words = sentence.split()

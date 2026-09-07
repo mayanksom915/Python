@@ -1,3 +1,5 @@
+# 2. Write a program that takes an integer as input and applies the following operations one by one: += 10, -= 5, *= 2, /= 3. Display the value after each operation.
+
 x=int(input("Enter first number: "))
 x+=10
 print("After adding value of x is:",x)

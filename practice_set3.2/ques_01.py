@@ -1,3 +1,6 @@
+# Q1. Create a tuple of five integers and print all elements. Access the first, last, and middle elements of a tuple.
+
+
 numbers = (10, 20, 30, 40, 50)
 print("All elements:", numbers)
 print("First element:", numbers[0])

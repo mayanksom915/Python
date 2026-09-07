@@ -1,3 +1,5 @@
+# Q6. Write a Python program to check whether a given key already exists in a dictionary.
+
 student = {
     "Roll": 101,
     "Name": "Rahul",

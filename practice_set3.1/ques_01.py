@@ -1,13 +1,7 @@
-# INTEGER
+# Q1. Declare one variable of each numerical data type and print their values and data types.
 
 a = 10
-
-# FLOAT
-
 b = 10.5
-
-# COMPLEX
-
 c = 10 + 5j
 
 print(a)

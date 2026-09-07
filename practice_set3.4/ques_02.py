@@ -1,3 +1,5 @@
+# Q2. Write a Python program to add new key-value pairs to the existing dictionary.
+
 employee = {
     "Name": "Amit",
     "Department": "CSE",

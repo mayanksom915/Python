@@ -1,3 +1,4 @@
+# Q3. Write a Python program to create a set and perform the following operations: union, intersection, difference, and symmetric difference.
 
 set1 = {10, 20, 30, 40}
 set2 = {30, 40, 50, 60}

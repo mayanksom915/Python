@@ -1,3 +1,6 @@
+# Q10. Create two complex variables: c1 = 6 + 9j, c2 = 4 - 7j. Add the two complex numbers, multiply them, find the magnitude (absolute value) of each complex number, print the data type of each result, and print the memory address of both variables.
+
+
 c1 = 6 + 9j
 c2 = 4 - 7j
 

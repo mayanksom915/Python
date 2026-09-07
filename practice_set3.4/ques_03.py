@@ -1,3 +1,5 @@
+# Q3. Write a Python program to update the salary of an employee in a dictionary.
+
 employee = {
     "Name": "Amit",
     "Salary": 45000

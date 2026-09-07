@@ -1,3 +1,6 @@
+# Q12. Write a Python program that performs the following operations on a given string:
+
+
 text = input("Enter a string: ")
 print("Uppercase:", text.upper())
 print("Lowercase:", text.lower())

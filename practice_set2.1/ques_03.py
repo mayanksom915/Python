@@ -1,3 +1,6 @@
+# Q3. WAP to input 3 numbers and print largest among them using if-elif-else.
+
+
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 num3 = float(input("Enter third number: "))

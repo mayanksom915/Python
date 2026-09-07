@@ -1,3 +1,6 @@
+# Q2. Input two integers and perform all arithmetic operations.
+
+
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 

@@ -1,3 +1,6 @@
+# Q4. Reverse a tuple using slicing, find the max, min, sum, and average.
+
+
 numbers = (10, 20, 30, 40, 50)
 print("Reversed tuple:", numbers[::-1])
 print("Maximum:", max(numbers))

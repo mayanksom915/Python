@@ -1,3 +1,5 @@
+# Q4. Write a Python program to remove a specific key from a dictionary and also remove the last inserted item.
+
 student = {
     "Roll": 101,
     "Name": "Rahul",

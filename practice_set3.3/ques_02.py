@@ -1,3 +1,6 @@
+# Q2. Write a Python program to print the following slices of a string: First 5 characters, Last 5 characters, Characters from index 3 to 10, Every second character, and Reverse of the string.
+
+
 text = input("Enter a string: ")
 
 print("First 5 characters:", text[:5])

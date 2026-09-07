@@ -1,3 +1,5 @@
+# Q8. Write a Python program to create a dictionary from two lists without losing duplicate values.
+
 keys = ["ID", "Name", "Age", "City"]
 values = [101, "Ankit", 20, "Delhi"]
 

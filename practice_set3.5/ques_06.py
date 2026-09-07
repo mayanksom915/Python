@@ -1,3 +1,5 @@
+# Q6. Write a Python program to find the common subjects between two students using sets.
+
 Student1 = {"Python", "Java", "SQL", "Excel"}
 Student2 = {"Python", "C", "Excel", "Power BI"}
 

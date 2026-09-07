@@ -1,3 +1,6 @@
+# 10. Input an integer. Display Bitwise XOR with another number entered by the user. Display Bitwise NOT (~).
+
+
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 

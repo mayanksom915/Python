@@ -1,3 +1,5 @@
+# 4. Create variables of type int, float, str, bool, and display their data types using type().
+
 int = 18
 str = "mayank"
 float = 1.8

@@ -1,3 +1,6 @@
+# Q5. Write a Python program to replace every space with a hyphen (-) using both methods.
+
+
 text = input("Enter a string: ")
 
 # Replace spaces with hyphens

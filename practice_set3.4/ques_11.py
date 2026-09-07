@@ -1,3 +1,5 @@
+# Q11. Write a Python program to create a nested dictionary to store information about departments in a college, including the department name, HOD name, number of faculty, and number of students.
+
 rdec_departments = {
     "CSE": {"HOD Name": "Dr. A. Sharma", "Number of Faculty": 45, "Number of Students": 480},
     "ECE": {"HOD Name": "Dr. B. Verma", "Number of Faculty": 30, "Number of Students": 320},

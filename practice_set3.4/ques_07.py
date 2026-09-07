@@ -1,3 +1,5 @@
+# Q7. Write a Python program to find the number of key-value pairs in a dictionary.
+
 student = {
     "Roll": 101,
     "Name": "Rahul",

@@ -1,3 +1,6 @@
+# Q7. Create a nested tuple and access inner elements.
+
+
 students = (
     ("Mayank", 85),
     ("Rahul", 90),

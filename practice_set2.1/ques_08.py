@@ -1,3 +1,6 @@
+# Q8. Calculate electricity bill using following slabs: Up to 100 units: ₹5/unit, 101–300 units: ₹7/unit, Above 300 units: ₹10/unit.
+
+
 
 units = float(input("Enter total electricity units consumed: "))
 bill_amount = 0

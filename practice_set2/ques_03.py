@@ -1,3 +1,6 @@
+# 3. Write a program to input two numbers and check: Are they equal? Are they not equal? Is the first number greater than the second? Is the first number less than or equal to the second?
+
+
 x=int(input("Enter first number: "))
 y=int(input("Enter second number: "))
 

@@ -1,3 +1,6 @@
+# Q4. Write a Python program to check whether a given string is a palindrome or not.
+
+
 text = input("Enter a string: ")
 
 result = text == text[::-1]

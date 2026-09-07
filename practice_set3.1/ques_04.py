@@ -1,3 +1,6 @@
+# Q4. Create a complex number using both 'a+bj' notation and the complex() function. Also print the real and imaginary parts of a complex number.
+
+
 #  using a+bj notation
 
 c1 = 5+3j

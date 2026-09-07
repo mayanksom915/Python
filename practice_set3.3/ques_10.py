@@ -1,3 +1,6 @@
+# Q10. Write a Python program to remove duplicate characters from a string.
+
+
 text = input("Enter a string: ")
 result = ""
 

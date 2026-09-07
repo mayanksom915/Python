@@ -1,3 +1,6 @@
+# 1. Write a program to input two integers and display their Addition, Subtraction, Multiplication, Division, Floor Division, Modulus and Exponentiation.
+
+
 x=int(input("Enter first number: "))
 y=int(input("Enter second number: "))
 print("Additon of x+y is:",x+y)

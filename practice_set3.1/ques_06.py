@@ -1,3 +1,6 @@
+# Q6. Demonstrate automatic type promotion using int, float, and complex.
+
+
 x = int(input("Enter first number: "))
 y = float(input("Enter second number: "))
 z = complex(input("Enter third number: "))

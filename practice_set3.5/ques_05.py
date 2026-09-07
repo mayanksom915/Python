@@ -1,3 +1,5 @@
+# Q5. Write a Python program to remove duplicates from a list and convert it into a set.
+
 
 my_list = [10, 20, 10, 30, 20, 40, 30]
 

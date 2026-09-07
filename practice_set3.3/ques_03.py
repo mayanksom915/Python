@@ -1,3 +1,6 @@
+# Q3. Write a program that counts the number of uppercase letters, lowercase letters, digits, spaces, and special characters in a given string.
+
+
 text = input("Enter a string: ")
 
 upper = lower = digits = spaces = special = 0
