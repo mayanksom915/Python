@@ -7,9 +7,9 @@ C = -128.75
 
 square_A = pow(A, 2)
 absolute_C = abs(C)
-maximum = max(A, B, C)
-minimum = min(A, B, C)
-average = (A + B + C) / 3
+maximum = max(A, B, absolute_C)
+minimum = min(A, B, absolute_C)
+average = (A + B + absolute_C) / 3
 
 print("A² =", square_A)
 print("Absolute value of C =", absolute_C)
