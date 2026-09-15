@@ -18,7 +18,7 @@ print("Last:", c)
 # Packed tuple: ('Mayank', 20, 'B.Tech')
 # Name: Mayank
 # Age: 20                                               
-# Course: BCA
+# Course: B.Tech
 # First: 10
 # Middle: [20, 30, 40]
 # Last: 50
