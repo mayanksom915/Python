@@ -6,16 +6,3 @@ with open("student.txt", "w") as f:
 with open("student.txt", "r") as f:
     marks = f.readlines()
 
-total = 0
-
-for m in marks:
-    total = total + int(m)
-
-average = total / len(marks)
-
-print("Total marks:", total)
-print("Average marks:", average)
-
-# output:
-# Total marks: 300
-# Average marks: 75.0
